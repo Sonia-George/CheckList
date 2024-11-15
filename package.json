@@ -1,0 +1,20 @@
+{
+  "name": "check_list_app",
+  "version": "1.0.0",
+  "description": "DBMS PROJECT",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sonia Ann George",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "express-flash": "^0.0.2",
+    "mysql2": "^3.11.4",
+    "nodemon": "^3.1.7"
+  }
+}
